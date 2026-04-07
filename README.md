@@ -1891,5 +1891,6 @@ API | Description | Auth | HTTPS | CORS |
 
 <br>
 
+Author - Anish Sinha
 ## License
 [MIT](LICENSE) (c) 2022 public-apis
