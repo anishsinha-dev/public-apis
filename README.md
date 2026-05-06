@@ -1892,7 +1892,9 @@ API | Description | Auth | HTTPS | CORS |
 <br>
 
 Author - Anish Sinha
+<br >
 (Forked Repo)
+<br >
 Credit for this Repo Goes to original Owner.
 ## License
 [MIT](LICENSE) (c) 2022 public-apis
